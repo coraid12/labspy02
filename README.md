@@ -34,3 +34,9 @@ pengulangan(
 
 #Contoh 1
 ![contoh1](https://user-images.githubusercontent.com/56239989/67631537-71552b00-f8ca-11e9-8609-0481e12d7141.jpg)
+
+#Contoh 2
+![contoh2](https://user-images.githubusercontent.com/56239989/67631545-88941880-f8ca-11e9-857f-80b7b788bc9f.jpg)
+
+Contoh 3
+![contoh3](https://user-images.githubusercontent.com/56239989/67631547-8cc03600-f8ca-11e9-9c1a-cc5a2cc6d7be.jpg)
