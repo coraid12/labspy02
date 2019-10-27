@@ -31,3 +31,6 @@ def pengulangan():
         print('Selesai.')
 
 pengulangan(
+
+#Contoh 1
+![contoh1](https://user-images.githubusercontent.com/56239989/67631537-71552b00-f8ca-11e9-8609-0481e12d7141.jpg)
