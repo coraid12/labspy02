@@ -48,5 +48,4 @@ pengulangan()
 ![contoh3](https://user-images.githubusercontent.com/56239989/67631547-8cc03600-f8ca-11e9-9c1a-cc5a2cc6d7be.jpg)
 
 # Flow Chartnya
-![FLOW CHART](https://user-images.githubusercontent.com/56239989/67632014-54235b00-f8d0-11e9-9942-7330d6778e26.jpg)
-
+![FLOW CHART](https://user-images.githubusercontent.com/56239989/67632120-dbbd9980-f8d1-11e9-91ba-66117a553507.jpg)
