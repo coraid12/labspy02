@@ -4,11 +4,12 @@ print ('program untuk menentukan bilangan terbesar dan terkecil')
 
 def pengulangan():
 
-    print ('masukkan 3 bilangan yang diinginkan!')
-    
+    print ('masukkan 3 bilangan yang diinginkan!')    
     a=int(input('bilangan1 = '))   
     b=int(input('bilangan2 = '))    
     c=int(input('bilangan3 = '))
+
+# 2.Berikutnya kita akan menggunakan Statement if Contoh Syntaxnya :
 
     if a>b and a>c:
         if b>c:
