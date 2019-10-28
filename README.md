@@ -1,4 +1,6 @@
-# 1.Langkah pertama yang harus dilakukan adalah menginput bilangan pertama sampai bilangan ketiga. Contoh Syntaxnya :
+# Tugas Mencari Bilangan Terbesar Dan Terkecil
+
+1.Langkah pertama yang harus dilakukan adalah menginput bilangan pertama sampai bilangan ketiga. Contoh Syntaxnya :
 
 print ('program untuk menentukan bilangan terbesar dan terkecil')
 
@@ -9,7 +11,7 @@ def pengulangan():
     b=int(input('bilangan2 = '))    
     c=int(input('bilangan3 = '))
 
-# 2.Berikutnya kita akan menggunakan Statement if Contoh Syntaxnya :
+2.Berikutnya kita akan menggunakan Statement if Contoh Syntaxnya :
 
     if a>b and a>c:
         if b>c:
