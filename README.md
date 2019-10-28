@@ -1,4 +1,4 @@
-# 3 Buah Bilangan ( Mencari Bilangan Terbesar dan Terkecil )
+# 1.Langkah pertama yang harus dilakukan adalah menginput bilangan pertama sampai bilangan ketiga. Contoh Syntaxnya :
 
 print ('program untuk menentukan bilangan terbesar dan terkecil')
 
@@ -6,10 +6,8 @@ def pengulangan():
 
     print ('masukkan 3 bilangan yang diinginkan!')
     
-    a=int(input('bilangan1 = '))
-    
-    b=int(input('bilangan2 = '))
-    
+    a=int(input('bilangan1 = '))   
+    b=int(input('bilangan2 = '))    
     c=int(input('bilangan3 = '))
 
     if a>b and a>c:
